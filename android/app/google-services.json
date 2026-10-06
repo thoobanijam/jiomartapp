@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021315459545",
+    "project_id": "mart-jio-online",
+    "storage_bucket": "mart-jio-online.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021315459545:android:b407a3737c5f8018d751c8",
+        "android_client_info": {
+          "package_name": "com.example.jiomart_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YC1t40EqE73h710Mg4JlSDJtgVQpJ40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

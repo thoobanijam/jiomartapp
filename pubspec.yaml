@@ -1,0 +1,131 @@
+name: jiomart_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  firebase_auth: ^6.7.0
+  firebase_core: ^4.15.0
+  flutter:
+    sdk: flutter
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/kitchen&dinning.avif
+    - assets/img/th.webp
+    - assets/img/OIP.webp
+    - assets/img/DZ-11.avif
+    - assets/img/mob1.webp
+    - assets/img/mob2.webp
+    - assets/img/mob3.webp
+    - assets/img/mob4.webp
+    - assets/img/sale.png
+    - assets/img/up1.webp
+    - assets/img/up2.webp
+    - assets/img/up3.webp
+    - assets/img/up4.webp
+    - assets/img/sales1.png
+    - assets/img/vivo1.png
+    - assets/img/vivo2.png
+    - assets/img/vivo3.png
+    - assets/img/vivo4.png
+    - assets/img/vivo5.png
+    - assets/img/kitchen1.webp
+    - assets/img/pan.png
+    - assets/img/tawa.png
+    - assets/img/MUG.png
+    - assets/img/plates.png
+    - assets/img/beware.png
+    - assets/img/k1.png
+    - assets/img/k2.webp
+    - assets/img/k3.webp
+    - assets/img/boat1.webp
+    - assets/img/headphoneandneckbands.png
+    - assets/img/ear1.png
+    - assets/img/ear2.png
+    - assets/img/Camera.png
+    - assets/img/charger.png
+    - assets/img/watch.png
+    - assets/img/wallstick.png
+    - assets/img/mouse.png
+    - assets/img/wifi.png
+    - assets/img/head.png
+    - assets/img/triggr.png
+    - assets/img/triggerraze.png
+    - assets/img/Mivi.png
+    - assets/img/Godrej.png
+    - assets/img/microvae1.webp
+    - assets/img/microvae1.webp
+    - assets/img/71l2saZzl9L._AC_.jpg
+    - assets/img/OIP (4).webp
+    - assets/img/ifb.png
+    - assets/img/slider1.png
+    - assets/img/slider2.png
+    - assets/img/slider3.png
+    - assets/img/slider4.png
+    - assets/img/grocery.jpeg
+    - assets/img/veg.webp
+    - assets/img/fruits.webp
+    - assets/img/milk&diary.webp
+    - assets/img/snacks.webp
+    - assets/img/beverages.webp
+    - assets/img/grocery1.webp
+    - assets/img/grocery2.jpeg
+    - assets/img/grocery3.webp
+    - assets/img/grocery4.jpeg
+    - assets/img/items1.webp
+    - assets/img/items2.webp
+    - assets/img/items3.webp
+    - assets/img/items4.jpg
+    - assets/img/veg1.webp
+    - assets/img/onion.jpg
+    - assets/img/tomotos.webp
+    - assets/img/caps.webp
+    - assets/img/cli.jpeg
+    - assets/img/brocoli.webp
+    - assets/img/apple.webp
+    - assets/img/banana.webp
+    - assets/img/cherry.jpeg
+    - assets/img/dragon.webp
+    - assets/img/emblic.webp
+    - assets/img/ferkleberry.webp
+    - assets/img/butter.webp
+    - assets/img/cheese.webp
+    - assets/img/icecream.webp
+    - assets/img/chese.jpeg
+    - assets/img/skimmedmilk.webp
+    - assets/img/condensed.webp
+    - assets/img/whippedcream.webp
+    - assets/img/curd.webp
+    - assets/img/milk.jpeg
+    - assets/img/parleg.webp
+    - assets/img/mariagold.webp
+    - assets/img/jimjam.webp
+    - assets/img/milkbkies.jpeg
+    - assets/img/nicetime.webp
+    - assets/img/oreo.webp
+    - assets/img/khari.webp
+    - assets/img/nankhatai.webp
+    - assets/img/jeera.webp
+    - assets/img/coco.webp
+    - assets/img/digestive.webp
+    - assets/img/7up.png
+    - assets/img/aw.jpg
+    - assets/img/canadadry.webp
+    - assets/img/clamdo.webp
+    - assets/img/crush.webp
+    - assets/img/deja.webp
+    - assets/img/deitride.webp
+    - assets/img/pepper.webp
+    - assets/img/m.webp
+
